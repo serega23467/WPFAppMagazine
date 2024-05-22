@@ -1,0 +1,48 @@
+22.05.2024 21:28:06: discount calculated
+22.05.2024 21:28:07: discount calculated
+22.05.2024 21:28:08: discount calculated
+22.05.2024 23:12:44: product added to shopping list by barcode
+22.05.2024 23:12:46: product added to shopping list
+22.05.2024 23:12:46: product added to shopping list
+22.05.2024 23:12:47: product added to shopping list
+22.05.2024 23:12:58: product added to shopping list by barcode
+22.05.2024 23:12:59: product removed from shopping list
+22.05.2024 23:13:06: product added to shopping list by barcode
+22.05.2024 23:13:08: product added to shopping list
+22.05.2024 23:13:08: product added to shopping list
+22.05.2024 23:13:08: product added to shopping list
+22.05.2024 23:13:09: product added to shopping list
+22.05.2024 23:13:09: product added to shopping list
+22.05.2024 23:13:20: product added to shopping list
+22.05.2024 23:13:21: product added to shopping list
+22.05.2024 23:13:22: product added to shopping list
+22.05.2024 23:13:22: product removed from shopping list
+22.05.2024 23:13:23: product removed from shopping list
+22.05.2024 23:13:23: product removed from shopping list
+22.05.2024 23:13:23: product removed from shopping list
+22.05.2024 23:13:24: product removed from shopping list
+22.05.2024 23:13:26: product added to shopping list
+22.05.2024 23:15:19: product added to shopping list by barcode
+22.05.2024 23:15:22: product added to shopping list by barcode
+22.05.2024 23:16:09: product added to shopping list
+22.05.2024 23:16:17: product added to shopping list
+22.05.2024 23:16:21: product added to shopping list
+22.05.2024 23:16:23: product added to shopping list
+22.05.2024 23:16:58: product added to shopping list
+22.05.2024 23:17:39: product added to shopping list by barcode
+22.05.2024 23:17:42: product added to shopping list
+22.05.2024 23:17:46: product added to shopping list
+22.05.2024 23:17:49: product added to shopping list
+22.05.2024 23:18:06: product added to shopping list
+22.05.2024 23:18:45: product added to shopping list
+22.05.2024 23:21:00: product added to shopping list by barcode
+22.05.2024 23:21:01: product added to shopping list
+22.05.2024 23:21:02: product added to shopping list
+22.05.2024 23:21:03: product added to shopping list
+22.05.2024 23:21:03: product added to shopping list
+22.05.2024 23:21:29: receipt printed
+22.05.2024 23:21:36: product added to shopping list by barcode
+22.05.2024 23:21:37: product added to shopping list
+22.05.2024 23:21:38: product added to shopping list
+22.05.2024 23:21:38: product added to shopping list
+22.05.2024 23:21:38: product added to shopping list

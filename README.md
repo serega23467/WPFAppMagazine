@@ -12,6 +12,7 @@
 сумма скидки
 
 ![4](https://github.com/serega23467/WPFAppMagazine/assets/114952677/cbbc7645-4cc3-47b5-ae34-f8173fbcd5c1)
+
 чек
 
 ![5](https://github.com/serega23467/WPFAppMagazine/assets/114952677/a126a7ef-d56b-42a8-8b11-603e5a10a4dd)

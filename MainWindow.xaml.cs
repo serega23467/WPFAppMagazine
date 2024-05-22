@@ -18,6 +18,7 @@ namespace WPFAppMagazine
         ApplicationContext db;
         List<ProductData> productsToBuy;
         bool hasProductByBarcode = false;
+        public static bool trueCode = false;
         public MainWindow()
         {
             InitializeComponent();
@@ -139,18 +140,25 @@ namespace WPFAppMagazine
 
         private void cancelButton_Click(object sender, RoutedEventArgs e)
         {
-            ProductData product = ((FrameworkElement)sender).DataContext as ProductData;
-            if (product != null)
+            WindowAcceptCancel window = new WindowAcceptCancel();
+            window.ShowDialog();
+
+            if (trueCode)
             {
-                int index = productsToBuy.FindIndex(p => p.Id == product.Id);
-                productsToBuy[index].Count--;
-                if (productsToBuy[index].Count == 0)
+                ProductData product = ((FrameworkElement)sender).DataContext as ProductData;
+                if (product != null)
                 {
-                    productsToBuy.Remove(product);
+                    int index = productsToBuy.FindIndex(p => p.Id == product.Id);
+                    productsToBuy[index].Count--;
+                    if (productsToBuy[index].Count == 0)
+                    {
+                        productsToBuy.Remove(product);
+                    }
+                    UpdateProductsToBuyList();
+                    Debugger.Log("product removed from shopping list");
                 }
-                UpdateProductsToBuyList();
-                Debugger.Log("product removed from shopping list");
             }
+
         }
 
         private void buttonCalculateDiscount_Click(object sender, RoutedEventArgs e)

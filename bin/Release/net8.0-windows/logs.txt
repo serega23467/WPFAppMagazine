@@ -1,0 +1,6 @@
+23.05.2024 0:43:15: product added to shopping list by barcode
+23.05.2024 0:43:30: product removed from shopping list
+23.05.2024 0:44:05: product added to shopping list by barcode
+23.05.2024 0:44:07: product added to shopping list
+23.05.2024 0:44:07: product added to shopping list
+23.05.2024 0:44:07: product added to shopping list

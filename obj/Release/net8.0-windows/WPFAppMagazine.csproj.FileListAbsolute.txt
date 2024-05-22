@@ -65,3 +65,5 @@ C:\Users\sereg\source\repos\WPFAppMagazine\obj\Release\net8.0-windows\WPFAppMaga
 C:\Users\sereg\source\repos\WPFAppMagazine\obj\Release\net8.0-windows\ref\WPFAppMagazine.dll
 C:\Users\sereg\source\repos\WPFAppMagazine\obj\Release\net8.0-windows\WPFAppMagazine_Content.g.cs
 C:\Users\sereg\source\repos\WPFAppMagazine\obj\Release\net8.0-windows\WPFAppMagazine.sourcelink.json
+C:\Users\sereg\source\repos\WPFAppMagazine\obj\Release\net8.0-windows\WindowAcceptCancel.g.cs
+C:\Users\sereg\source\repos\WPFAppMagazine\obj\Release\net8.0-windows\WindowAcceptCancel.baml
